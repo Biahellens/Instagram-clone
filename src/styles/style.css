@@ -1,0 +1,31 @@
+body {
+  font-family: 'Montserrat';
+  background-color: #F9F9F9;
+  display: flex;
+  justify-content: center;
+}
+
+.box-main{
+  margin-top: 15vh;
+  display: flex;
+}
+
+.box-login{
+  margin-top: 12px;
+  width: 350px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-items: center;
+}
+
+.box-title{
+  max-width: 100%;
+}
+
+.title{
+  max-width: 100%;
+  height: auto;
+}
